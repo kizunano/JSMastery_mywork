@@ -1,0 +1,25 @@
+:root {
+    --bg-primary: #F5F5F0;
+    --bg-secondary: linear-gradient(0deg, #aba393 10%,#EDEAE4 );
+    --bg-secondary-no: white;
+    --text-color: #000000;
+    --btn-bg: #A07840;
+    --btn-text: #fff;
+    --image-bg: #EDEAE4;
+    --a-primary:#666666;
+    --theme-invert: invert(1);
+    --n-1:url("../images/01.png");
+}
+
+.dark-theme {
+    --bg-primary: #0D0D0D;
+    --bg-secondary: linear-gradient(0deg, #1c1915 10%, #101015);
+    --bg-secondary-no:  #111111;
+    --text-color: #fff;
+    --btn-bg: #C8A96E;
+    --btn-text: #000000;
+    --image-bg: #1A1A1A;
+    --a-primary:#888888;
+    --theme-invert: invert(0);
+    --n-1:url("../images/01\ \(1\).png");
+}

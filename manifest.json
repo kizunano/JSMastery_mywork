@@ -1,0 +1,14 @@
+{
+    "name":"MinriStyle - помощник для самовыражения в мире татуировок.",
+    "short_name":"MinriStyle",
+    "description":"гид по основным стилям тату и советами о том, как правильно выбрать татуировку и мастера для её нанесеняя на тело.",
+     "display":"standalone",
+     "background_color":" #666666",
+     "theme_color":" #666666",
+     "orientation":"landscape",
+     "icons":[{
+        "scr":"icon.png",
+        "sizes":"96x106",
+        "type":"image/png"
+     }]
+}
